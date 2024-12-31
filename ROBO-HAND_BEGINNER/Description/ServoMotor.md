@@ -7,10 +7,10 @@
 
 **Общий вид сервопривода**
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/941c01ec695bbc355c71a3d1c1845f7b24092576/ROBO-HAND_BEGINNER/Image/ServoMotor/MG996R.jpg">
- <source media="(prefers-color-scheme: light)" srcset="hhttps://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/941c01ec695bbc355c71a3d1c1845f7b24092576/ROBO-HAND_BEGINNER/Image/ServoMotor/MG996R.jpg">
- <img alt="YOUR-ALT-TEXT" src=srcset="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/941c01ec695bbc355c71a3d1c1845f7b24092576/ROBO-HAND_BEGINNER/Image/ServoMotor/MG996R.jpg">
-</picture>  
+ <source media="(prefers-color-scheme: dark)" srcset="ROBO-HAND_BEGINNER/Image/ServoMotor/MG996R.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="ROBO-HAND_BEGINNER/Image/ServoMotor/MG996R.jpg">
+ <img alt="YOUR-ALT-TEXT" src="ROBO-HAND_BEGINNER/Image/ServoMotor/MG996R.jpg">
+</picture>
   
 - [Схема с размерами](Image\ServoMotor\MG996R_PLAN.png).
 
