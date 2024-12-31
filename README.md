@@ -2,7 +2,7 @@
 ROSE — это образовательный проект, посвященный созданию робота-манипулятора на базе Arduino, максимально приближенного по функциональности и управлению к промышленным роботам. Этот проект разработан для студентов, преподавателей и энтузиастов, чтобы изучать основы робототехники, автоматизации и программирования.
 
 ## Разделы
-- [ROBO-HAND_BEGINNER](https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/tree/739c41199af915128a980bd11d0dc961301a81ca): основы для начинающих;
+- [ROBO-HAND_BEGINNER](https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/tree/16b740c4e4cdfdc89ce2b66e7378a8eb9a3a9551/ROBO-HAND_BEGINNER): основы для начинающих;
 - [ROBO-HAND_Pre-Intermediate](): модификация основ, улучшение работы;
 - [В РАЗРАБОТКЕ]():
 
