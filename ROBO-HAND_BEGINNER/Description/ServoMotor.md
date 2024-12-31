@@ -12,6 +12,6 @@
  <img alt="YOUR-ALT-TEXT" src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/8989acb73e1eef5d800acf2d3656e3bb71f4edce/ROBO-HAND_BEGINNER/Image/ServoMotor/MG996R.jpg">
 </picture>
   
-- [Схема с размерами](Image\ServoMotor\MG996R_PLAN.png).
+- [Схема с размерами](https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/8989acb73e1eef5d800acf2d3656e3bb71f4edce/ROBO-HAND_BEGINNER/Image/ServoMotor/MG996R.jpg).
 
 Подключение можно выполнить как на прямую используя имеющиеся пины на плате Arduino [Схема подключения прямая](...), так и с импользованием плат расширения которые позволяют как облегчить подключение так и увеличить функциональность. В текущем проекте будет использованна плата расширения [...](...).
