@@ -4,7 +4,14 @@
 
 ## Подключение  
 Большинство популярных решений для Arduino управляется при помощи контроллера, а к плате Arduino подключаются при помощи  выходного шлейфа из трёх проводов (питание - красный, земля - коричневый,  - желтый). *Далее по проекту будет использоваться сервопривод модели MG996R с углом поворота 180 градусов.*   
-- [Общий вид сервопривода](Image\ServoMotor\MG996R.jpg);
+
+**Общий вид сервопривода**
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/941c01ec695bbc355c71a3d1c1845f7b24092576/ROBO-HAND_BEGINNER/Image/ServoMotor/MG996R.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="hhttps://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/941c01ec695bbc355c71a3d1c1845f7b24092576/ROBO-HAND_BEGINNER/Image/ServoMotor/MG996R.jpg">
+ <img alt="YOUR-ALT-TEXT" src=srcset="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/941c01ec695bbc355c71a3d1c1845f7b24092576/ROBO-HAND_BEGINNER/Image/ServoMotor/MG996R.jpg">
+</picture>  
+  
 - [Схема с размерами](Image\ServoMotor\MG996R_PLAN.png).
 
 Подключение можно выполнить как на прямую используя имеющиеся пины на плате Arduino [Схема подключения прямая](...), так и с импользованием плат расширения которые позволяют как облегчить подключение так и увеличить функциональность. В текущем проекте будет использованна плата расширения [...](...).
