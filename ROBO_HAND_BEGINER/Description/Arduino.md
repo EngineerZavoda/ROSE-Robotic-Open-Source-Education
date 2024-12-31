@@ -19,3 +19,17 @@ Arduino выделяется среди других платформ (напр�
 
 **Начало работы**  
 Для знакомства с платформой рекомендуется изучить руководство по началу работы и использовать доступные онлайн-ресурсы и проекты сообщества Arduino.
+
+## Общий вид платы Arduino
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://docs.arduino.cc/static/59be648a9bc0da11bc1e642ff77db6cb/7f80b/a000099_featured_1.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://docs.arduino.cc/static/59be648a9bc0da11bc1e642ff77db6cb/7f80b/a000099_featured_1.jpg">
+ <img alt="YOUR-ALT-TEXT" src=srcset="https://docs.arduino.cc/static/59be648a9bc0da11bc1e642ff77db6cb/7f80b/a000099_featured_1.jpg">
+</picture> 
+
+## Схема распиновки платы Arduino
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://docs.arduino.cc/static/6ec5e4c2a6c0e9e46389d4f6dc924073/2f891/Pinout-UNOrev3_latest.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://docs.arduino.cc/static/6ec5e4c2a6c0e9e46389d4f6dc924073/2f891/Pinout-UNOrev3_latest.png">
+ <img alt="YOUR-ALT-TEXT" src="https://docs.arduino.cc/static/6ec5e4c2a6c0e9e46389d4f6dc924073/2f891/Pinout-UNOrev3_latest.png">
+</picture>
