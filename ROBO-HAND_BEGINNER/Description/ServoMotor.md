@@ -5,18 +5,15 @@
 ## Подключение  
 Большинство популярных решений для Arduino управляется при помощи контроллера, а к плате Arduino подключаются при помощи  выходного шлейфа из трёх проводов (питание - красный, земля - коричневый,  - желтый). *Далее по проекту будет использоваться сервопривод модели MG996R с углом поворота 180 градусов.*   
 
-**Общий вид сервопривода** 
-
-| Название | Характеристика |
-|---:|---|
+|---|---|
 | <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/8989acb73e1eef5d800acf2d3656e3bb71f4edce/ROBO-HAND_BEGINNER/Image/ServoMotor/MG996R.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/8989acb73e1eef5d800acf2d3656e3bb71f4edce/ROBO-HAND_BEGINNER/Image/ServoMotor/MG996R.jpg">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/8989acb73e1eef5d800acf2d3656e3bb71f4edce/ROBO-HAND_BEGINNER/Image/ServoMotor/MG996R.jpg">
-</picture> | ATmega328P | 
-
-
-  
-- [Схема с размерами](https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/8989acb73e1eef5d800acf2d3656e3bb71f4edce/ROBO-HAND_BEGINNER/Image/ServoMotor/MG996R.jpg).
+</picture> |  <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/8989acb73e1eef5d800acf2d3656e3bb71f4edce/ROBO-HAND_BEGINNER/Image/ServoMotor/MG996R_PLAN.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/8989acb73e1eef5d800acf2d3656e3bb71f4edce/ROBO-HAND_BEGINNER/Image/ServoMotor/MG996R_PLAN.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/8989acb73e1eef5d800acf2d3656e3bb71f4edce/ROBO-HAND_BEGINNER/Image/ServoMotor/MG996R_PLAN.jpg">
+</picture>  | 
 
 Подключение можно выполнить как на прямую используя имеющиеся пины на плате Arduino [Схема подключения прямая](...), так и с импользованием плат расширения которые позволяют как облегчить подключение так и увеличить функциональность. В текущем проекте будет использованна плата расширения [...](...).
