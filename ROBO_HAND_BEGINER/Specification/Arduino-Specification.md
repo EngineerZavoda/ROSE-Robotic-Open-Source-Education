@@ -1,4 +1,5 @@
 # Технические характеристики Arduino UNO
+[**Оригинальная ссылка**](https://docs.arduino.cc/retired/boards/arduino-uno-rev3-with-long-pins/#:~:text=replace%20the%208U2.-,Tech%20Specs,-Microcontroller)
 
 | Название | Характеристика |
 |---:|---|
