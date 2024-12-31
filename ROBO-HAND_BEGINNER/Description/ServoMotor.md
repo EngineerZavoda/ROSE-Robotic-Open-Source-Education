@@ -7,9 +7,9 @@
 
 **Общий вид сервопривода**
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="ROBO-HAND_BEGINNER/Image/ServoMotor/MG996R.jpg">
- <source media="(prefers-color-scheme: light)" srcset="ROBO-HAND_BEGINNER/Image/ServoMotor/MG996R.jpg">
- <img alt="YOUR-ALT-TEXT" src="ROBO-HAND_BEGINNER/Image/ServoMotor/MG996R.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="Image/ServoMotor/MG996R.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="Image/ServoMotor/MG996R.jpg">
+ <img alt="YOUR-ALT-TEXT" src="Image/ServoMotor/MG996R.jpg">
 </picture>
   
 - [Схема с размерами](Image\ServoMotor\MG996R_PLAN.png).
