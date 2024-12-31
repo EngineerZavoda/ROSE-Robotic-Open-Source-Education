@@ -5,6 +5,7 @@
 ## Подключение  
 Большинство популярных решений для Arduino управляется при помощи контроллера, а к плате Arduino подключаются при помощи  выходного шлейфа из трёх проводов (питание - красный, земля - коричневый,  - желтый). *Далее по проекту будет использоваться сервопривод модели MG996R с углом поворота 180 градусов.*   
 
+|WWW|ZZZ|
 |---|---|
 | <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/8989acb73e1eef5d800acf2d3656e3bb71f4edce/ROBO-HAND_BEGINNER/Image/ServoMotor/MG996R.jpg">
