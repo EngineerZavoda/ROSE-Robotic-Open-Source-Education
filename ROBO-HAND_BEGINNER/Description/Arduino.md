@@ -18,14 +18,14 @@ Arduino используется в образовании, дизайне, ис
 Arduino выделяется среди других платформ (например, Parallax Basic Stamp или Phidgets) своей доступностью, кроссплатформенностью, простотой программирования и открытостью.  
 
 **Начало работы**  
-Для знакомства с платформой рекомендуется изучить [раздел проекта ROBOHAND_BEGINER](https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/tree/4f855673d2167778370af13b9466b2d96a38ee3c/ROBOHAND_BEGINNER) и использовать доступные онлайн-ресурсы и проекты сообщества Arduino.
+Для знакомства с платформой рекомендуется изучить [раздел проекта ROBO-HAND_BEGINER](https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/tree/16b740c4e4cdfdc89ce2b66e7378a8eb9a3a9551/ROBO-HAND_BEGINNER) и использовать доступные онлайн-ресурсы и проекты сообщества Arduino.
 
 ## Общий вид платы Arduino
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://docs.arduino.cc/static/59be648a9bc0da11bc1e642ff77db6cb/7f80b/a000099_featured_1.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://docs.arduino.cc/static/59be648a9bc0da11bc1e642ff77db6cb/7f80b/a000099_featured_1.jpg">
  <img alt="YOUR-ALT-TEXT" src=srcset="https://docs.arduino.cc/static/59be648a9bc0da11bc1e642ff77db6cb/7f80b/a000099_featured_1.jpg">
-</picture> 
+</picture>
 
 ## Схема распиновки платы Arduino
 <picture>
