@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/a8b87e8602bc7f74fda92e55c75d24c96354b590/ROBO-HAND_BEGINNER/Image/Arduino/SensorShield.jpg" alt="Arduino Sensor Shield" height="170" width="250">
+      <img src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/94ff0cf145282f6b754a1b841d3b4a2cfb28c390/ROBO-HAND_BEGINNER/Image/Arduino/Shields.png" alt="Arduino Sensor Shield" height="170" width="250">
     </td>
     <td>
       Использование плат расширения, позволяет как облегчить подключение, так и увеличить функциональность.
