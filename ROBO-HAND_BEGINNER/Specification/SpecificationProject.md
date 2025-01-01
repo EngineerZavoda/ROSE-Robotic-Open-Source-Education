@@ -1,4 +1,4 @@
-# Спецификация проекта	
+# Спецификация проекта
 
 <table>
 	<tr>
@@ -54,9 +54,9 @@
 			Крепеж сервопривода
 		</td>
 		<td align="center">
-			<img width="30%" src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/232d3d006d0e91993ed61fe0fbd08181a279a8f0/ROBO-HAND_BEGINNER/Image/Bracing/Part_1/0.jpg"> 
-    	<img width="30%" src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/232d3d006d0e91993ed61fe0fbd08181a279a8f0/ROBO-HAND_BEGINNER/Image/Bracing/Part_1/1.jpeg"> 
-    	<img width="30%" src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/232d3d006d0e91993ed61fe0fbd08181a279a8f0/ROBO-HAND_BEGINNER/Image/Bracing/Part_1/2.jpg"> 
+			<img width="30%" src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/232d3d006d0e91993ed61fe0fbd08181a279a8f0/ROBO-HAND_BEGINNER/Image/Bracing/Part_0/0.jpg">
+    	<img width="30%" src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/232d3d006d0e91993ed61fe0fbd08181a279a8f0/ROBO-HAND_BEGINNER/Image/Bracing/Part_0/1.jpeg">
+    	<img width="30%" src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/232d3d006d0e91993ed61fe0fbd08181a279a8f0/ROBO-HAND_BEGINNER/Image/Bracing/Part_0/2.jpg">
 		</td>
 		<td>
 			...
@@ -67,11 +67,23 @@
 			П - образное соединение
 		</td>
 		<td align="center">
-			<img width="30%" src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/232d3d006d0e91993ed61fe0fbd08181a279a8f0/ROBO-HAND_BEGINNER/Image/Bracing/Part_2/0.jpg"> 
-    	<img width="30%" src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/232d3d006d0e91993ed61fe0fbd08181a279a8f0/ROBO-HAND_BEGINNER/Image/Bracing/Part_2/1.jpg"> 
+			<img width="30%" src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/232d3d006d0e91993ed61fe0fbd08181a279a8f0/ROBO-HAND_BEGINNER/Image/Bracing/Part_1/0.jpg">
+    	<img width="30%" src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/232d3d006d0e91993ed61fe0fbd08181a279a8f0/ROBO-HAND_BEGINNER/Image/Bracing/Part_1/1.jpg">
 		</td>
 		<td>
 			...
 		</td>
   </tr>
+	<tr>
+		<td align="right">
+			Муфта соединительная 25T
+		</td>
+		<td align="center">
+			<img width="30%" src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/ad5ea6ca69b5867bdf0ee603dca8ce94927d577d/ROBO-HAND_BEGINNER/Image/Bracing/Part_2/0.jpg">
+			<img width="30%" src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/ad5ea6ca69b5867bdf0ee603dca8ce94927d577d/ROBO-HAND_BEGINNER/Image/Bracing/Part_2/1.jpg">
+		</td>
+		<td>
+			...
+		</td>
+	</tr>
 </table>
