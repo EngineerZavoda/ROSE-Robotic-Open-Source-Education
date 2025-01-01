@@ -12,7 +12,7 @@
  <img alt="YOUR-ALT-TEXT" src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/9514f9716fee31dc185fbe311bff393d21c90672/ROBO-HAND_BEGINNER/Image/ServoMotor/MG996R_FIG1.png">
 </picture>
 
-Подключение можно выполнить как на прямую используя имеющиеся пины на плате Arduino.
+Подключение можно выполнить как на прямую используя имеющиеся пины на плате Arduino.  
 *Схема подключения прямая*
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/bc0417dbb39ec42fefeef30e8f18cc052103d3f8/ROBO-HAND_BEGINNER/Image/ServoMotor/DirectConnection.gif">
