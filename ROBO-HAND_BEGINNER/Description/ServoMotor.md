@@ -26,7 +26,7 @@
       <img src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/bc0417dbb39ec42fefeef30e8f18cc052103d3f8/ROBO-HAND_BEGINNER/Image/ServoMotor/DirectConnection.gif" alt="Direct Connection Example" height="170" width="250">
     </td>
     <td>
-      Большинство популярных решений для Arduino управляется при помощи контроллера, а к плате Arduino подключаются при помощи выходного шлейфа из трёх проводов (питание — красный, земля — коричневый, сигнал — жёлтый).
+      Большинство популярных сервоприводов для Arduino управляется при помощи контроллера, а к плате Arduino подключаются при помощи выходного шлейфа из трёх проводов (питание — красный, земля — коричневый, сигнал — жёлтый).
     </td>
   </tr>
 	<tr>
