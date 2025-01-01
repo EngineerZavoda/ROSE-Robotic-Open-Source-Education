@@ -7,9 +7,9 @@
 
 **Общий вид и схема с размерами **
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/8989acb73e1eef5d800acf2d3656e3bb71f4edce/ROBO-HAND_BEGINNER/Image/ServoMotor/MG996R_FIG1.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/8989acb73e1eef5d800acf2d3656e3bb71f4edce/ROBO-HAND_BEGINNER/Image/ServoMotor/MG996R_FIG1.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/8989acb73e1eef5d800acf2d3656e3bb71f4edce/ROBO-HAND_BEGINNER/Image/ServoMotor/MG996R_FIG1.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/9514f9716fee31dc185fbe311bff393d21c90672/ROBO-HAND_BEGINNER/Image/ServoMotor/MG996R_FIG1.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/9514f9716fee31dc185fbe311bff393d21c90672/ROBO-HAND_BEGINNER/Image/ServoMotor/MG996R_FIG1.png">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/9514f9716fee31dc185fbe311bff393d21c90672/ROBO-HAND_BEGINNER/Image/ServoMotor/MG996R_FIG1.png">
 </picture>
 
 Подключение можно выполнить как на прямую используя имеющиеся пины на плате Arduino [Схема подключения прямая](Image\ServoMotor\DirectConnection.gif), так и с импользованием плат расширения которые позволяют как облегчить подключение так и увеличить функциональность. В текущем проекте будет использованна плата расширения [...](...).
