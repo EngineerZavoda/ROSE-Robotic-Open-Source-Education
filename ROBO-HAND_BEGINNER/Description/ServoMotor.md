@@ -39,7 +39,8 @@
       <img src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/a8b87e8602bc7f74fda92e55c75d24c96354b590/ROBO-HAND_BEGINNER/Image/Arduino/SensorShield.jpg" alt="Arduino Sensor Shield" height="170" width="250">
     </td>
     <td>
-      Использование плат расширения, позволяет как облегчить подключение, так и увеличить функциональность. В текущем проекте будет использована плата расширения Arduino Sensor Shield V4.0.
+      Использование плат расширения, позволяет как облегчить подключение, так и увеличить функциональность.
+<i> В проекте будет использована плата расширения Arduino Sensor Shield V4.0 <i>.
     </td>
   </tr>
 </table>
