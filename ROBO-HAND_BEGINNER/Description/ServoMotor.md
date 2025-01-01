@@ -21,7 +21,7 @@
 </picture>  
 Так и с импользованием плат расширения которые позволяют как облегчить подключение так и увеличить функциональность. В текущем проекте будет использованна плата расширения Arduino Sensor Shield V4.0.
 
-*Arduino Sensor Shield V4.0 - общий вид*
+*Arduino Sensor Shield V4.0 - общий вид*  
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/bc0417dbb39ec42fefeef30e8f18cc052103d3f8/ROBO-HAND_BEGINNER/Image/Arduino/SensorShield.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/bc0417dbb39ec42fefeef30e8f18cc052103d3f8/ROBO-HAND_BEGINNER/Image/Arduino/SensorShield.jpg">
