@@ -23,7 +23,7 @@
 
 *Arduino Sensor Shield V4.0 - общий вид*  
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/bc0417dbb39ec42fefeef30e8f18cc052103d3f8/ROBO-HAND_BEGINNER/Image/Arduino/SensorShield.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/bc0417dbb39ec42fefeef30e8f18cc052103d3f8/ROBO-HAND_BEGINNER/Image/Arduino/SensorShield.jpg">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/bc0417dbb39ec42fefeef30e8f18cc052103d3f8/ROBO-HAND_BEGINNER/Image/Arduino/SensorShield.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/a8b87e8602bc7f74fda92e55c75d24c96354b590/ROBO-HAND_BEGINNER/Image/Arduino/SensorShield.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/a8b87e8602bc7f74fda92e55c75d24c96354b590/ROBO-HAND_BEGINNER/Image/Arduino/SensorShield.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/a8b87e8602bc7f74fda92e55c75d24c96354b590/ROBO-HAND_BEGINNER/Image/Arduino/SensorShield.jpg">
 </picture>
