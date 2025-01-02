@@ -6,7 +6,7 @@
   </tr>
 	<tr>
     <td colspan="2" align="center">
-      Прямое подключение к Arduino
+      Подключение к Arduino
     </td>
   </tr>
   <tr>
