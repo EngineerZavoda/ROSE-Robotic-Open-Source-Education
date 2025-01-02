@@ -53,6 +53,15 @@
     <td align="center">...</td>
   </tr>
   <tr>
+    <td align="right">П - образное соединение (основание)</td>
+    <td align="center">
+      <img src="" width="80">
+      <img src="" width="80">
+      <img src="" width="80">    
+    </td>
+    <td align="center">...</td>
+  </tr>
+  <tr>
     <td align="right">Муфта соединительная 25T</td>
     <td align="center">
       <img src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/b5966f6b657fda9090f053bd9aa264ff4ffef472/ROBO-HAND_BEGINNER/Image/Bracing/Part_2/0.jpg" width="80">
