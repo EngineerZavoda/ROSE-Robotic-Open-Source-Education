@@ -85,7 +85,10 @@
     <td align="right">П - образное соединение (основание)</td>
     <td align="center">
       <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-        <img src="" alt="PART_3" style="height: 20%; width: 20%;">
+        <img src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/a5b0daf55e4a05e72ee32d783e55f875a9a065fc/ROBO-HAND_BEGINNER/Image/Bracing/Part_3/fig_models_resizer/0.jpg" alt="PART_3" style="height: 20%; width: 20%;">
+        <img src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/a5b0daf55e4a05e72ee32d783e55f875a9a065fc/ROBO-HAND_BEGINNER/Image/Bracing/Part_3/fig_models_resizer/1.jpg" alt="PART_3" style="height: 20%; width: 20%;">
+        <img src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/a5b0daf55e4a05e72ee32d783e55f875a9a065fc/ROBO-HAND_BEGINNER/Image/Bracing/Part_3/fig_models_resizer/2.jpg" alt="PART_3" style="height: 20%; width: 20%;">
+        <img src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/a5b0daf55e4a05e72ee32d783e55f875a9a065fc/ROBO-HAND_BEGINNER/Image/Bracing/Part_3/fig_models_resizer/3.jpg" alt="PART_3" style="height: 20%; width: 20%;">
       </div>
     </td>
     <td align="center">...</td>
@@ -94,11 +97,32 @@
     <td align="right">Муфта соединительная 25T</td>
     <td align="center">
       <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-        <img src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/f4ce4093dd467d761e5b9988e6cf13dd4043c794/ROBO-HAND_BEGINNER/Image/Bracing/Part_2/fig_models_resizer/0_50.jpg" alt="PART_2" style="height: 20%; width: 20%;">
         <img src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/f4ce4093dd467d761e5b9988e6cf13dd4043c794/ROBO-HAND_BEGINNER/Image/Bracing/Part_2/fig_models_resizer/1_50.jpg" alt="PART_2" style="height: 20%; width: 20%;">
         <img src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/f4ce4093dd467d761e5b9988e6cf13dd4043c794/ROBO-HAND_BEGINNER/Image/Bracing/Part_2/fig_models_resizer/2_50.jpg" alt="PART_2" style="height: 20%; width: 20%;">
         <img src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/f4ce4093dd467d761e5b9988e6cf13dd4043c794/ROBO-HAND_BEGINNER/Image/Bracing/Part_2/fig_models_resizer/3_50.jpg" alt="PART_2" style="height: 20%; width: 20%;">
         <img src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/f4ce4093dd467d761e5b9988e6cf13dd4043c794/ROBO-HAND_BEGINNER/Image/Bracing/Part_2/fig_models_resizer/4_50.jpg" alt="PART_2" style="height: 20%; width: 20%;">
+      </div>
+    </td>
+    <td align="center">...</td>
+  </tr>
+  <tr>
+    <td align="right">Угол 90 градусов (разнополочный)</td>
+    <td align="center">
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+        <img src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/a5b0daf55e4a05e72ee32d783e55f875a9a065fc/ROBO-HAND_BEGINNER/Image/Bracing/Part_4/fig_models_resizer/0.jpg" alt="PART_4" style="height: 20%; width: 20%;">
+        <img src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/a5b0daf55e4a05e72ee32d783e55f875a9a065fc/ROBO-HAND_BEGINNER/Image/Bracing/Part_4/fig_models_resizer/1.jpg" alt="PART_4" style="height: 20%; width: 20%;">
+        <img src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/a5b0daf55e4a05e72ee32d783e55f875a9a065fc/ROBO-HAND_BEGINNER/Image/Bracing/Part_4/fig_models_resizer/2.jpg" alt="PART_4" style="height: 20%; width: 20%;">
+        <img src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/a5b0daf55e4a05e72ee32d783e55f875a9a065fc/ROBO-HAND_BEGINNER/Image/Bracing/Part_4/fig_models_resizer/3.jpg" alt="PART_4" style="height: 20%; width: 20%;">       
+      </div>
+    </td>
+    <td align="center">...</td>
+  </tr>
+  <tr>
+    <td align="right">Муфта соединительная <i>(L=50, D=12)</i></td>
+    <td align="center">
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+        <img src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/a5b0daf55e4a05e72ee32d783e55f875a9a065fc/ROBO-HAND_BEGINNER/Image/Bracing/Part_5/fig_models_resizer/0.jpg" alt="PART_5" style="height: 20%; width: 20%;">
+        <img src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/a5b0daf55e4a05e72ee32d783e55f875a9a065fc/ROBO-HAND_BEGINNER/Image/Bracing/Part_5/fig_models_resizer/1.jpg" alt="PART_5" style="height: 20%; width: 20%;">
       </div>
     </td>
     <td align="center">...</td>
