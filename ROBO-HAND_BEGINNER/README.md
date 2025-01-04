@@ -13,5 +13,5 @@
 # Общий вид робота-манипулятора  
 
 <p align="center">
-  <img src="path/to/image.jpg" alt="Общий вид робота-манипулятора">
+  <img src="https://github.com/EngineerZavoda/ROSE-Robotic-Open-Source-Education/blob/ba0207052bc1a2d099ad00085924fef1d05bc2a0/ROBO-HAND_BEGINNER/Image/Robot/0.jpg" alt="Общий вид робота-манипулятора">
 </p>
